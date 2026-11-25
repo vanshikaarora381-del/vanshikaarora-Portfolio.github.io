@@ -12,7 +12,7 @@
 
 const content = {
   // ---------- About you ----------
-  name: "Percy Portfolio",
+  name: "Vanshika",
   tagline: "Aspiring software developer & professional thumbs-up giver 👍", // one line under your name
 
   // Put your photo in the assets/ folder and put its file name here.
